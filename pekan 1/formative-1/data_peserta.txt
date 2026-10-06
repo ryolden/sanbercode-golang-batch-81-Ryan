@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Ryan Oldeno 
+2. Email: ryanoldeno12@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: ryolden
+5. Akun Telegram: z0rnos
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : Mahasiswa 
+7. Umur:23 Tahun
+8. Pernah menggunakan Go? : belum
+9. Bahasa Pemrograman yg pernah dipelajari: java, php, python, javascript
+10. Pernah membuat REST API? : pernah
