@@ -47,10 +47,10 @@ func hitungLingkaran(luas *float64, keliling *float64, r float64) {
 func main() {
 	//soal 1
 	john := introduce("John", "laki-laki", "penulis", "30")
-	fmt.Println(john) // Output: Pak John adalah seorang penulis yang berusia 30 tahun
+	fmt.Println(john)
 
 	sarah := introduce("Sarah", "perempuan", "model", "28")
-	fmt.Println(sarah) // Output: Bu Sarah adalah seorang model yang berusia 28 tahun
+	fmt.Println(sarah)
 
 	//soal 2
 	var buah = []string{"semangka", "jeruk", "melon", "pepaya"}
